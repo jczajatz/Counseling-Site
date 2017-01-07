@@ -318,7 +318,7 @@ body,
 .featured-media:after,
 .section-block:not([class*="bkg-"]),
 .fullscreen-sections-wrapper{
-	background-color: #fff;
+	background-color: #ccc;
 }
 .section-block.featured-media,
 .section-block.fullscreen-section{
@@ -3477,7 +3477,7 @@ blockquote.border{
 .tabs.style-1.vertical.right .tab-nav > li.active a:hover{
 	margin-right: 0;
 	border: none;
-	background-color: #27ccc0;
+	background-color: #B26CEC;
 	color: #fff;
 }
 /* style 2 */
