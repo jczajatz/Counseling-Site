@@ -79,7 +79,7 @@ h6{
 	line-height: 1;
 	font-weight: 300;
 	text-transform: none;
-	color: #666;
+	color: #fafafa;
 }
 h1 a:hover,
 h2 a:hover,
@@ -3588,7 +3588,7 @@ blockquote.border{
 }
 .menu-list li:nth-child(even) h4,
 .menu-list li:nth-child(even) .menu-description{
-	color: #666;
+	color: #fafafa;
 }
 .menu-list h4 .menu-line{
 	bottom: 1px;
@@ -3607,7 +3607,7 @@ blockquote.border{
 .menu-item.dashed .menu-title,
 .menu-item.dashed .menu-description,
 .menu-item.dashed .menu-price{
-	background-color: #fff;
+	background-color: #232323;
 }
 .dotted .menu-line{
 	background-image: radial-gradient(circle closest-side, #ccc 99%,rgba(0,0,0,0) 0%);
