@@ -187,13 +187,13 @@ body.boxed .wrapper-inner {
     width: 58.33333%
 }
 .width-8 {
-    width: 66.66667%
+    width: 88%
 }
 .width-9 {
     width: 75%
 }
 .width-10 {
-    width: 83.33333%
+    width: 40%
 }
 .width-11 {
     width: 91.66667%
@@ -272,10 +272,10 @@ body.boxed .wrapper-inner {
     right: 91.66667%
 }
 .offset-1 {
-    margin-left: 8.33333%
+    margin-left: 1%
 }
 .offset-2 {
-    margin-left: 16.66667%
+    margin-left: 8%
 }
 .offset-3 {
     margin-left: 25%
@@ -338,7 +338,7 @@ body.boxed .wrapper-inner {
 }
 .center,
 .navigation.nav-center>ul {
-    text-align: center
+    text-align: left
 }
 .pull-left {
     float: left!important
