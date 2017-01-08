@@ -402,24 +402,24 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #27ccc0;
-	border-color: #27ccc0;
+	background-color: #B26CEC;
+	border-color: #B26CEC;
 }
 .bkg-hover-theme:hover{
-	background-color: #27ccc0;
-	border-color: #27ccc0;
+	background-color: #B26CEC;
+	border-color: #B26CEC;
 }
 .border-theme{
-	border-color: #27ccc0;
+	border-color: #B26CEC;
 }
 .border-hover-theme:hover{
-	border-color: #27ccc0;
+	border-color: #B26CEC;
 }
 .color-theme{
-	color: #27ccc0;
+	color: #B26CEC;
 }
 .color-hover-theme:hover{
-	color: #27ccc0;
+	color: #B26CEC;
 }
 
 /*------------------------------------------------------------------
