@@ -94,7 +94,7 @@ h1 {
 	font-size: 4.5rem;
 }
 h2{
-	font-size: 3.3rem;
+	font-size: 2.5rem;
 }
 h3 {
 	font-size: 2.3rem;
@@ -355,7 +355,7 @@ body,
 
 /* grey */
 .bkg-grey{
-	background-color: #4e4e4d;
+	background-color: #C23824;
 	border-color: #4e4e4d;
 }
 .bkg-hover-grey:hover{
@@ -387,7 +387,7 @@ body,
 	color: #333;
 }
 .bkg-charcoal{
-	background-color: #151515; 
+	background-color: #55C4A1; 
 	border-color: #151515;
 }
 .bkg-hover-charcoal:hover{
@@ -458,7 +458,7 @@ body,
 .replicable-content,
 .row.xlarge.replicable-content{
 	padding-top: 11rem;
-	padding-bottom: 8rem;
+	padding-bottom: 1rem;
 }
 .section-block.slanted-top:before{
 	width: 100%;
@@ -743,7 +743,7 @@ body,
 	margin: 0 1.5rem;
 	padding-left: 0;
 	padding-right: 0;
-	font-size: 1.1rem;
+	font-size: 1.5rem;
 	text-transform: uppercase;
 	font-weight: 600;
 	letter-spacing: 0.1rem;
@@ -1175,13 +1175,13 @@ body,
 	line-height: 1.2;
 	letter-spacing: 0.1rem;
 	text-transform: uppercase;
-	font-weight: 300;
+	font-weight: 800;
 	color: #888;
 	position: relative;
 }
 .side-navigation ul li.current > a{
 	color: #fff;
-	font-weight: 300;
+	font-weight: 900;
 }
 .side-navigation > ul > li > a:after {
 	width: 0;
@@ -1832,11 +1832,11 @@ body,
 
 /* Rollover Text */
 .overlay-info > span > span{
-	font-size: 1.3rem;
-	font-weight: 400;
-	letter-spacing: 0.1rem;
+	font-size: 2.5rem;
+	font-weight: 600;
+	letter-spacing: 0.2rem;
 	text-transform: uppercase;
-	color: #fff;
+	color: #555;
 }
 .overlay-info .project-description{
 	font-size: 1.2rem;
@@ -1896,13 +1896,13 @@ body,
 
 /* Hero */
 .hero-5-1 .media-column{
-	background-image: url(../images/architecture/generic/hero-half-1.jpg);
+	background-image: url(../images/architecture/generic/JCZ110424-9.jpg);
 }
 .hero-5-2 .media-column{
-	background-image: url(../images/architecture/generic/hero-half-2.jpg);
+	background-image: url(../images/architecture/generic/JCZ110424-9.jpg);
 }
 .hero-5-3 .media-column{
-	background-image: url(../images/architecture/generic/hero-half-3.jpg);
+	background-image: url(../images/architecture/generic/JCZ110424-9.jpg);
 }
 
 /* Call to Action */
@@ -3771,7 +3771,7 @@ only screen and (				min-resolution: 2dppx) {
 		background-image: url(../images/architecture/generic/hero-half-2@2x.jpg);
 	}
 	.hero-5-3 .media-column{
-		background-image: url(../images/architecture/generic/hero-half-3@2x.jpg);
+		background-image: url(../images/architecture/generic/JCZ110424-9.jpg);
 	}
 
 	/* Call to Action Sections */

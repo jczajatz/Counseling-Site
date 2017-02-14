@@ -79,7 +79,7 @@ h6{
 	line-height: 1;
 	font-weight: 300;
 	text-transform: none;
-	color: #fafafa;
+	color: #666;
 }
 h1 a:hover,
 h2 a:hover,
@@ -182,7 +182,7 @@ a.animated-link{
 /* Lead */
 .lead,
 blockquote.large{
-	font-size: 1.5rem;
+	font-size: 2rem;
 	font-weight: 300;
 }
 
@@ -318,7 +318,7 @@ body,
 .featured-media:after,
 .section-block:not([class*="bkg-"]),
 .fullscreen-sections-wrapper{
-	background-color: #ccc;
+	background-color: #fff;
 }
 .section-block.featured-media,
 .section-block.fullscreen-section{
@@ -402,24 +402,24 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #B26CEC;
-	border-color: #B26CEC;
+	background-color: #27ccc0;
+	border-color: #27ccc0;
 }
 .bkg-hover-theme:hover{
-	background-color: #B26CEC;
-	border-color: #B26CEC;
+	background-color: #27ccc0;
+	border-color: #27ccc0;
 }
 .border-theme{
-	border-color: #B26CEC;
+	border-color: #27ccc0;
 }
 .border-hover-theme:hover{
-	border-color: #B26CEC;
+	border-color: #27ccc0;
 }
 .color-theme{
-	color: #B26CEC;
+	color: #27ccc0;
 }
 .color-hover-theme:hover{
-	color: #B26CEC;
+	color: #27ccc0;
 }
 
 /*------------------------------------------------------------------
@@ -1856,7 +1856,7 @@ body,
 
 /* Hero */
 .hero-5-1 .media-column{
-	background-image: url(../images/resume/generic/JCZ110424-9.jpg);
+	background-image: url(../images/resume/generic/hero-half-1.jpg);
 }
 .hero-5-2 .media-column{
 	background-image: url(../images/team/hero-half-2.jpg);
@@ -3477,7 +3477,7 @@ blockquote.border{
 .tabs.style-1.vertical.right .tab-nav > li.active a:hover{
 	margin-right: 0;
 	border: none;
-	background-color: #B26CEC;
+	background-color: #27ccc0;
 	color: #fff;
 }
 /* style 2 */
@@ -3588,7 +3588,7 @@ blockquote.border{
 }
 .menu-list li:nth-child(even) h4,
 .menu-list li:nth-child(even) .menu-description{
-	color: #fafafa;
+	color: #666;
 }
 .menu-list h4 .menu-line{
 	bottom: 1px;
@@ -3607,7 +3607,7 @@ blockquote.border{
 .menu-item.dashed .menu-title,
 .menu-item.dashed .menu-description,
 .menu-item.dashed .menu-price{
-	background-color: #232323;
+	background-color: #fff;
 }
 .dotted .menu-line{
 	background-image: radial-gradient(circle closest-side, #ccc 99%,rgba(0,0,0,0) 0%);
@@ -3745,7 +3745,7 @@ only screen and (				min-resolution: 2dppx) {
 
 	/* Hero Sections */
 	.hero-5-1 .media-column{
-		background-image: url(../images/resume/generic/JCZ110424-9.jpg);
+		background-image: url(../images/resume/generic/hero-half-1@2x.jpg);
 	}
 	.hero-5-2 .media-column{
 		background-image: url(../images/team/hero-half-2@2x.jpg);
