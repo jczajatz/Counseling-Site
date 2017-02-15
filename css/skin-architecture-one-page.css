@@ -45,7 +45,7 @@ Copyright: ThemeMountain
 body{
 	font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
 	letter-spacing: 0;
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 1.4rem;
 	line-height: 1.8;
 	color: #666;
@@ -78,7 +78,7 @@ h4,
 h5,
 h6{
 	line-height: 1;
-	font-weight: 300;
+	font-weight: 600;
 	text-transform: uppercase;
 	color: #000;
 }
@@ -112,7 +112,7 @@ h6{
 /* Widget Titles */
 .footer .widget-title, 
 .footer .widget-title a{
-	font-size: 1.4rem;
+	font-size: 2rem;
 	letter-spacing: 0;
 	font-weight: 700;
 	color: #fff;
@@ -1899,7 +1899,7 @@ body,
 	background-image: url(../images/architecture/generic/JCZ110424-9.jpg);
 }
 .hero-5-2 .media-column{
-	background-image: url(../images/architecture/generic/JCZ110424-9.jpg);
+	background-image: url(../images/architecture/generic/couple-beach.jpg);
 }
 .hero-5-3 .media-column{
 	background-image: url(../images/architecture/generic/JCZ110424-9.jpg);
@@ -2832,13 +2832,13 @@ textarea.required-field{
 /* Footer Text */
 .footer .widget,
 .footer address{
-	font-size: 1.3rem;
+	font-size: 2rem;
 	color: #999;
 	text-transform: none;
 	font-style: normal;
 }
 .footer-top a:not(.button){
-	font-size: 1.3rem;
+	font-size: 2rem;
 	color: #666;
 }
 .footer-bottom a{
@@ -3768,7 +3768,7 @@ only screen and (				min-resolution: 2dppx) {
 		background-image: url(../images/architecture/generic/hero-half-1@2x.jpg);
 	}
 	.hero-5-2 .media-column{
-		background-image: url(../images/architecture/generic/hero-half-2@2x.jpg);
+		background-image: url(../images/architecture/generic/couple-beach.jpg);
 	}
 	.hero-5-3 .media-column{
 		background-image: url(../images/architecture/generic/JCZ110424-9.jpg);

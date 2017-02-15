@@ -110,7 +110,7 @@ body.boxed .wrapper-inner {
 .column,
 [class*=content-grid] .grid-item {
     width: 100%;
-    padding-left: 1.5rem;
+    padding-left: 2.5rem;
     padding-right: 1.5rem;
     float: left
 }
@@ -2834,7 +2834,7 @@ table.table {
 }
 table.table {
     border: 1px solid #eee;
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     line-height: 1.5;
     text-align: left;
     border-collapse: separate;
@@ -3230,7 +3230,7 @@ p a:hover {
 .progress-bar-label {
     margin-bottom: .8rem;
     color: #666;
-    font-size: 1.2rem;
+    font-size: 1.8rem;
     display: block
 }
 .progress-bar-label+.progress-bar {
@@ -11841,7 +11841,7 @@ body.boxed .blog-masonry.full-width [class*=content-grid] {
     margin-bottom: 4rem
 }
 .mb-50 {
-    margin-bottom: 5rem
+    margin-bottom: 3rem
 }
 .mb-60 {
     margin-bottom: 6rem
