@@ -2832,13 +2832,13 @@ textarea.required-field{
 /* Footer Text */
 .footer .widget,
 .footer address{
-	font-size: 2rem;
+	font-size: 1.5rem;
 	color: #999;
 	text-transform: none;
 	font-style: normal;
 }
 .footer-top a:not(.button){
-	font-size: 2rem;
+	font-size: 1,6rem;
 	color: #666;
 }
 .footer-bottom a{
