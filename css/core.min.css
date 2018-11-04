@@ -7581,9 +7581,9 @@ body.boxed .header .header-inner {
     opacity: .6!important
 }
 .header .logo img {
-    width: 100%;
+    width: auto;
     height: auto;
-    max-height: 100%
+    max-height: auto
 }
 .header .logo a:first-child {
     display: none
