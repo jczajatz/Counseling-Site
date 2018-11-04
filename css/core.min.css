@@ -11875,7 +11875,7 @@ body.boxed .blog-masonry.full-width [class*=content-grid] {
 }
 .pt-0,
 .section-block.pt-0 {
-    padding-top: 0
+    padding-top: 10
 }
 .pt-5,
 .section-block.pt-5 {
