@@ -165,7 +165,7 @@ body,
 .pagination-2 .pagination-next,
 .row.xlarge{padding-top:11rem;padding-bottom:11rem;}
 .replicable-content,
-.row.xlarge.replicable-content{padding-top:11rem;padding-bottom:10rem;}
+.row.xlarge.replicable-content{padding-top:7rem;padding-bottom:7rem;}
 .section-block.slanted-top:before{width:100%;height:12rem;background-color:inherit;content:'';position:absolute;left:0;top:-5.7rem;-webkit-transform:skewY(-4.5deg);-ms-transform:skewY(-4.5deg);transform:skewY(-4.5deg);z-index:5;}
 .footer .footer-top{padding-top:9rem;padding-bottom:5rem;}
 .grid-filter-menu{padding-top:5rem;padding-bottom:5rem;}
