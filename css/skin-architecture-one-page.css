@@ -127,12 +127,12 @@ body,
 .fullscreen-sections-wrapper{background-color:#fff;}
 .section-block.featured-media{background-color:#000;}
 .wrapper-inner{-webkit-filter:none;filter:none;-webkit-transition:350ms ease-in-out;transition:350ms ease-in-out;}
-.bkg-grey-ultralight{background-color:#fafafa;border-color:#fafafa;}
+.bkg-grey-ultralight{background-color:#e8e4e4;border-color:#e8e4e4;}
 .bkg-hover-grey-ultralight:hover{background-color:#fafafa;border-color:#fafafa;}
 .border-hover-grey-ultralight:hover{border-color:#fafafa;}
 .color-grey-ultralight,
 .color-hover-grey-ultralight:hover{color:#fafafa;}
-.bkg-grey{background-color:#C23824;border-color:#4e4e4d;}
+.bkg-grey{background-color:#7c695fcc;border-color:#7c695fcc;}
 .bkg-hover-grey:hover{background-color:#4e4e4d;border-color:#4e4e4d;}
 .border-hover-grey:hover{border-color:#4e4e4d;}
 .color-grey,
@@ -142,12 +142,12 @@ body,
 .border-hover-charcoal-light:hover{border-color:#333;}
 .color-charcoal-light,
 .color-hover-charcoal-light:hover{color:#333;}
-.bkg-charcoal{background-color:#55C4A1;border-color:#151515;}
-.bkg-hover-charcoal:hover{background-color:#151515;border-color:#151515;}
+.bkg-charcoal{background-color:#44ccb3;border-color:#44ccb3;}
+.bkg-hover-charcoal:hover{background-color:#44ccb3;border-color:#44ccb3;}
 .border-charcoal,
-.border-hover-charcoal:hover{border-color:#151515;}
+.border-hover-charcoal:hover{border-color:#3c3e3d;}
 .color-charcoal,
-.color-hover-charcoal:hover{color:#151515;}
+.color-hover-charcoal:hover{color:#3c3e3d;}
 .bkg-turquoise{background-color:#55c4a1;border-color:#55c4a1;}
 .bkg-hover-turquoise:hover{background-color:#55c4a1;border-color:#55c4a1;}
 .border-turquoise,
@@ -913,7 +913,7 @@ a.disabled .text-line{-webkit-transition-property:none;-moz-transition-property:
 .testimonial-slider{height:14rem;}
 .testimonial-slider blockquote{width:100%;}
 .testimonial-slider blockquote span{margin-bottom:2rem;}
-.testimonial-slider cite{font-size:1rem;font-weight:700;text-transform:uppercase;color:#999;font-style:normal;}
+.testimonial-slider cite{font-size:1rem;font-weight:700;text-transform:uppercase;color:#fff;font-style:normal;}
 .button{text-transform:uppercase;font-size:1rem;}
 .button-content{line-height:1;}
 .box{font-size:inherit !important;line-height:inherit !important;}
